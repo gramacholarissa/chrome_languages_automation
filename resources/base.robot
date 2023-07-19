@@ -1,6 +1,11 @@
 *** Settings ***
+
 Documentation  Tudo deve começar por aqui 
+
 Library   SikuliLibrary
+
+Resource  actions/languagens.robot
+
 *** Keywords ***
 
 Carrega Elementos
