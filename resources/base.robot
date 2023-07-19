@@ -1,24 +1,23 @@
 *** Settings ***
 
-Documentation  Tudo deve começar por aqui 
+Documentation  Start here 
 
 Library   SikuliLibrary
 
-Resource  actions/languagens.robot
+Resource  actions/languages.robot
 
 *** Keywords ***
 
-Carrega Elementos
+Loading Elements
     Add Image Path  ${EXECDIR}\\resources\\elements
- 
 
-Inicia Sessão
-    Carrega Elementos
+Start Test
+    Loading Elements
     Click  icon_chrome.png
 
-Encerrar Sessão
+Stop Test
     Stop Remote Server
     
-Finaliza Teste
+End Test
     Capture Screen
     Close Application    chrome
