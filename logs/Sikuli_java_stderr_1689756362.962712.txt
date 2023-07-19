@@ -1,0 +1,40 @@
+Gtk-Message: 05:46:05.141: Failed to load module "canberra-gtk-module"
+[4293:4293:0719/055027.683882:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055027.787301:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055027.894515:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055028.235271:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055028.421450:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055028.854881:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055034.431059:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055034.767044:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055034.926692:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055035.126801:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055035.287386:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055036.669527:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055036.815072:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055038.342690:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055055.838691:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055056.930640:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055105.534978:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[4293:4293:0719/055107.182944:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.165 s for first_image_paint 0.149 s
+[8449:1:0719/061007.247043:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.246962:ERROR:archive_handler.h(89)] Failed to fetch [Content_Types].xml of size 1264 with error code: -1
+[8449:1:0719/061007.247115:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247075:ERROR:archive_handler.h(89)] Failed to fetch _rels/.rels of size 587 with error code: -1
+[8449:1:0719/061007.247182:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247163:ERROR:archive_handler.h(89)] Failed to fetch xl/_rels/workbook.xml.rels of size 697 with error code: -1
+[8449:1:0719/061007.247249:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247231:ERROR:archive_handler.h(89)] Failed to fetch xl/worksheets/sheet1.xml of size 59671 with error code: -1
+[8449:1:0719/061007.247300:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247279:ERROR:archive_handler.h(89)] Failed to fetch xl/sharedStrings.xml of size 1831 with error code: -1
+[8449:1:0719/061007.247358:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247342:ERROR:archive_handler.h(89)] Failed to fetch xl/theme/theme1.xml of size 7961 with error code: -1
+[8449:1:0719/061007.247407:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247389:ERROR:archive_handler.h(89)] Failed to fetch xl/styles.xml of size 5026 with error code: -1
+[8449:1:0719/061007.247458:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247435:ERROR:archive_handler.h(89)] Failed to fetch docProps/app.xml of size 802 with error code: -1
+[8449:1:0719/061007.247508:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247490:ERROR:archive_handler.h(89)] Failed to fetch docProps/core.xml of size 739 with error code: -1
+[8449:1:0719/061007.247551:ERROR:archive_handler.cc(45)] Not implemented!
+[8449:1:0719/061007.247530:ERROR:archive_handler.h(89)] Failed to fetch xl/workbook.xml of size 624 with error code: -1
+Warning: failed to launch javaldx - java may not function correctly

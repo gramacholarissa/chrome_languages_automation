@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1 (Python 3.10.6 on linux)" generated="20230719 05:46:02.948" rpa="false" schemaversion="4">
+<suite id="s1" name="Languagens Menu" source="/home/lara/Documents/versetis_automation/tests/languagens_menu.robot">
+<kw name="Inicia Sessão" library="base" type="SETUP">
+<kw name="Carrega Elementos" library="base">
+<kw name="Add Image Path" library="SikuliLibrary">
+<arg>${EXECDIR}\\resources\\elements</arg>
+<doc>Add image path</doc>
+<msg timestamp="20230719 05:46:05.207" level="INFO">[error] ImagePath: add: folder does not exist (/home/lara/Documents/versetis_automation\resources\elements)
+[error] ImagePath: add: not valid: /home/lara/Documents/versetis_automation\resources\elements</msg>
+<status status="PASS" starttime="20230719 05:46:05.194" endtime="20230719 05:46:05.207"/>
+</kw>
+<status status="PASS" starttime="20230719 05:46:05.194" endtime="20230719 05:46:05.207"/>
+</kw>
+<kw name="Click" library="SikuliLibrary">
+<arg>icon_chrome.png</arg>
+<doc>Click</doc>
+<msg timestamp="20230719 05:46:05.244" level="INFO">[error] RunTime:loadLib: opencv_java (failed) probably dependent libs missing:
+no opencv_java in java.library.path: [/usr/java/packages/lib, /usr/lib/x86_64-linux-gnu/jni, /lib/x86_64-linux-gnu, /usr/lib/x86_64-linux-gnu, /usr/lib/jni, /lib, /usr/lib]
+[error] Save your work, correct the problem and restart the IDE!
+[error] see: https://github.com/RaiMan/SikuliX1/wiki/macOS-Linux:-Support-Libraries-for-OpenCV-4
+TERMINATING: problem with native library: opencv_java</msg>
+<msg timestamp="20230719 05:46:05.244" level="FAIL">java.lang.ExceptionInInitializerError: null</msg>
+<status status="FAIL" starttime="20230719 05:46:05.207" endtime="20230719 05:46:05.244"/>
+</kw>
+<status status="FAIL" starttime="20230719 05:46:05.193" endtime="20230719 05:46:05.244"/>
+</kw>
+<test id="s1-t1" name="Abrir tela de idiomas no chrome" line="9">
+<status status="FAIL" starttime="20230719 05:46:05.244" endtime="20230719 05:46:05.245">Parent suite setup failed:
+java.lang.ExceptionInInitializerError: null</status>
+</test>
+<doc>Suite de teste do abrir idiomas</doc>
+<status status="FAIL" starttime="20230719 05:46:02.948" endtime="20230719 05:46:05.245">Suite setup failed:
+java.lang.ExceptionInInitializerError: null</status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Languagens Menu">Languagens Menu</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
