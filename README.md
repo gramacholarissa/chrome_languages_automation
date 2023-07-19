@@ -12,6 +12,10 @@ Para rodar o projeto com sucesso é necessário ter instalado:
 * [Sikuli](http://sikulix.com/) 
 * [Python](https://www.python.org/) 
 * [Java](https://www.oracle.com/java/technologies/downloads/) 
+* [Chrome](https://www.google.pt/intl/pt-PT/chrome/?brand=FKPE&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xZL-Es1KmoysYeont3NWAq9nu-l02N3CWExTlyoP3MM8NJi4rVe-NUaAlVCEALw_wcB&gclsrc=aw.ds/) 
+
+
+Além disso, o projeto foi construído para navegadores que estejam em inglês. Troque o idioma do seu 
 
 
 ### 🔧 Instalação

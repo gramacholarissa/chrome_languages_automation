@@ -9,6 +9,6 @@ Select option settings
 Check if settings opened successfully
     Exists  settings_menu.png
 Select option languages
-    Click   languagens.png
+    Click   languages.png
 Check if language opened successfully
-    Exists  languagens_menu.png
+    Exists  languages_menu.png
