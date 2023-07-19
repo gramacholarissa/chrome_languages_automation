@@ -14,5 +14,5 @@ Open language
     Select option languages
     Check if language opened successfully
 
-    [Teardown] End Test
+    [Teardown]  End Test
 
