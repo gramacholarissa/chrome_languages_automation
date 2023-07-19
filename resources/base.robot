@@ -13,11 +13,11 @@ Loading Elements
 
 Start Test
     Loading Elements
-    Click  icon_chrome.png
+    Click   icon_chrome.png
 
 Stop Test
     Stop Remote Server
     
 End Test
     Capture Screen
-    Close Application    chrome
+    Close Application chrome
