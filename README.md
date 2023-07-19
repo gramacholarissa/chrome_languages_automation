@@ -1,4 +1,4 @@
-# vertesis_automation
+# Sobre o Projeto
 
 Esse projeto foi criado com o intuito de automatizar o processo de acessar a funcionalidade de idiomas do navegador chrome.
 
@@ -14,7 +14,7 @@ Para rodar o projeto com sucesso é necessário ter instalado:
 * [Java](https://www.oracle.com/java/technologies/downloads/) 
 * [Chrome](https://www.google.pt/intl/pt-PT/chrome/?brand=FKPE&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xZL-Es1KmoysYeont3NWAq9nu-l02N3CWExTlyoP3MM8NJi4rVe-NUaAlVCEALw_wcB&gclsrc=aw.ds/) 
 
-Além disso, o projeto foi construído para navegadores que estejam em inglês. Troque o idioma do seu navegador para inglês, caso não esteja, para o teste rodar com sucesso. 
+Além disso, o projeto foi construído para navegadores que estejam em inglês. Troque o idioma do seu navegador para inglês, caso não esteja, para o proejto rodar com sucesso. 
 
 ### 🔧 Instalação
 
