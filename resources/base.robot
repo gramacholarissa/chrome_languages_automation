@@ -19,5 +19,5 @@ Stop Test
     Stop Remote Server
     
 End Test
-    Capture Screen
-    Close Application chrome
+ Capture Screen
+ Close Application  Google Chrome
